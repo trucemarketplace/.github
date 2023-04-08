@@ -1,6 +1,13 @@
 ## Hi there 👋
 Description
 
+#Blockchain
+#p2p #P2P
+#ecommerce
+#decentralized
+#noncustodia
+#shop
+
 What is Truce?🏠
 
 Truce is a decentralized ecommerce that promotes local stores, all the money you pay for a good goes directly to the seller. Truce is made to be, as far as possible, similar to the online shops you already use; so, when you are searching for something, you’ll not even notice that you are using a decentralized system.
