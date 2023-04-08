@@ -24,7 +24,7 @@ Stores will also contribute to the platform: every store will host its part of t
 
 What about the delivery?
 
-Truce comes with a delivery service that works like Deliveroo: a network of cyclist that cover the local area. An algorithm calculates the best and cheapest route to deliver your goods.
+Truce comes with a delivery service that works like Bolt or uber eat: a network of cyclist that cover the local area. An algorithm calculates the best and cheapest route to deliver your goods.
 
 Also the delivery service will be commission-free, when a good is delivered, the money for the delivery goes directly to the cyclists involved.
 
