@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-
 Description
 
 Why?
@@ -53,6 +50,7 @@ Complexity Beginner - This project requires no or little prior knowledge of the 
 Required time (ETA) Little work - A couple of days Medium work - A week or two Much work - The project will take more than a couple of weeks and serious planning is required
 
 Share on Twitter/other social media if you will
+<!--
 
 **Here are some ideas to get you started:**
 
