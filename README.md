@@ -6,7 +6,7 @@ Description
 
 Why?
 
-We live in a society in which huge corporations have the power to influence economies and trends. Today the big companies that owns the online market don’t pay taxes, they underpay their employees, and they are disrupting local economies. We think that the world deserves a better alternative, so we decide to found Truce.
+We live in a society in which huge corporations have the power to influence economies and trends. Today the big companies that owns the online market don’t pay taxes, they underpay their employees, and they are disrupting local economies. We think that the world deserves a better alternative, so we found Truce.
 
 What is Truce?🏠
 
