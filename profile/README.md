@@ -3,8 +3,6 @@ Description
 
 Why?
 
-We live in a society in which huge corporations have the power to influence economies and trends. Today the big companies that owns the online market don’t pay taxes, they underpay their employees, and they are disrupting local economies. To rent and setup a physical store is costly to some individuals and businesses who want to venture into the trade market and make profit, We think that the world deserves a better alternative, so we found Truce.
-
 What is Truce?🏠
 
 Truce is a decentralized ecommerce that promotes local stores, all the money you pay for a good goes directly to the seller. Truce is made to be, as far as possible, similar to the online shops you already use; so, when you are searching for something, you’ll not even notice that you are using a decentralized system.
