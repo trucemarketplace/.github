@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+I already wrote the description of the project as if it's already an established organization, but it is not. I'm searching for developers, lawyers and advertisers interested in the project!
+
 Description
 
 #Blockchain
