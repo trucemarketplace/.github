@@ -9,6 +9,8 @@ Description
 #ecommerce
 #decentralized
 #noncustodia
+#web3
+#dapp
 #shop
 
 What is Truce?🏠
