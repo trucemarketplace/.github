@@ -53,10 +53,6 @@ Truce is an ambitious project, from a programming point of view, building a dece
 
 So in total we need some time to launch Truce.
 
-Complexity Beginner - This project requires no or little prior knowledge of the technolog(y|ies) specified to contribute to the project Intermediate - The user should have some prior knowledge of the technolog(y|ies) to the point where they know how to use it, but not necessarily all the nooks and crannies of the technology Advanced - The project requires the user to have a good understanding of all components of the project to contribute
-
-Required time (ETA) Little work - A couple of days Medium work - A week or two Much work - The project will take more than a couple of weeks and serious planning is required
-
 Share on Twitter/other social media if you will
 <!--
 
