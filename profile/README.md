@@ -23,7 +23,9 @@ The application is decentralized so we just need money for the developers, the l
 
 How do you build a p2p decentralized ecommerce🤝?
 
-Every city (or village) will have a truce instance, the truce instance is needed to group all the stores of your city so you can view them in a storefront like the one that you already use. All the truce instances will talk to each other, so when you search for a product and it’s not near to you (it means it’s not in the instance of your city), you will find it anyway. Truce is designed to be inclusive for local businesses and individuals who are interested in alternative means to make sales locally and reduce costs/fees in doing business, saving more to expand and grow
+Every city (or village) will have a truce instance, the truce instance is needed to group all the stores of your city so you can view them in a storefront like the one that you already use. All the truce instances will talk to each other, so when you search for a product and it’s not near to you (it means it’s not in the instance of your city), you will find it anyway. 
+
+Truce is designed to be inclusive for local businesses and individuals who are interested in alternative means to make sales locally and reduce costs/fees in doing business, saving more to expand and grow
 
 Stores will also contribute to the platform: every store will host its part of the system: when you buy a product, the computational cost of the operation is processed by the store. The store will have different ways to connect to the local instance, if a store doesn’t handle lots of requests then it just need a browser to be part of the network. If the store needs to handle thousands of requests per seconds then a more powerful architecture is needed but we will help configuring it.
 
