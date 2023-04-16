@@ -19,7 +19,7 @@ Truce is a p2p decentralized ecommerce that promotes local stores, all the money
 
 How will you earn money💰?
 
-The application is decentralized so we just need money for the developers, the lawyers and the advertisers, we don’t have to build and maintain a huge and expansive network infrastructure. So we’ll just earn money from advertisement and a small commission on trades, but it will not be specific for you, because we want your data to be yours, and we will accept to advertise only local products.
+The application is decentralized so we need funds for developers, lawyers and advertisers, we don’t have to build and maintain a huge and expansive network infrastructure. So we’ll just earn money from advertisement and a small commission on trades, but it will not be specific for you, because we want your data to be yours, and we will accept to advertise only local products.
 
 How do you build a p2p decentralized ecommerce🤝?
 
