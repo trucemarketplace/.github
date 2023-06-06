@@ -1,6 +1,6 @@
 # .github
 
-I already wrote the description of the project as if it's already an established organization, but it is not. I'm searching for developers, lawyers and advertisers interested in the project!
+<!--I already wrote the description of the project as if it's already an established organization, but it is not. I'm searching for developers, lawyers and advertisers interested in the project!
 
 Description
 
@@ -46,7 +46,7 @@ The project is very ambitious so everyone is welcome, of course experienced deve
 Complexity and required time
 
 Truce is an ambitious project, from a programming point of view, building a decentralized system is something difficult, there are a lot of concept involved. But a first version of Truce, without the complete decentralization implemented could be ready in just 3 months. Later, for the next 9 months, we could decentralized every piece of Truce while it is already online.
-
+-->
 So in total we need some time to launch Truce.
 
 Complexity Beginner - This project requires no or little prior knowledge of the technolog(y|ies) specified to contribute to the project Intermediate - The user should have some prior knowledge of the technolog(y|ies) to the point where they know how to use it, but not necessarily all the nooks and crannies of the technology Advanced - The project requires the user to have a good understanding of all components of the project to contribute
